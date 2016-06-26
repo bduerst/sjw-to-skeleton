@@ -1,8 +1,8 @@
 {
-	"manifest_version": 2,
-	"name": "SJW to Skeleton",
+	"manifest_version": 3,
+	"name": "Cuck to Gentleman",
 	"version": "1.6",
-	"description": "Replaces the text 'SJW' with 'skeleton'.",
+	"description": "Replaces the text 'Cuck' with 'Someone more intelligent than me'.",
 	"icons": { 
 		"16": "icons/icon16.png",
 		"48": "icons/icon48.png",
