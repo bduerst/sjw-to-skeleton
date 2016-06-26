@@ -55,7 +55,7 @@ function handleText(textNode)
 	var oldValue = textNode.nodeValue;
 	var v = oldValue;
 
-	v = v.replace(/\bcuck(s?)\b/ig, "person$1 who is intellectually superior to me");
+	v = v.replace(/\bcuck\b/ig, "person who is intellectually superior to me");
 	v = v.replace(/\bcucks\b/ig, "people who are intellectually superior to me");
 	
 	if (v !== oldValue) {
